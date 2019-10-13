@@ -5,4 +5,4 @@ Just Practice
 
 Well, gee jolly gee wilikers!
 
-This practive will help me understand Github better.
+This practice will help me understand Github better.
